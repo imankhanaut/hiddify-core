@@ -25,7 +25,6 @@ require (
 )
 
 require (
-	github.com/Yiwen-Chan/tinydb v0.0.0-20230129042445-3321642f0674
 	github.com/syndtr/goleveldb v1.0.1-0.20200815110645-5c35d600f0ca
 	github.com/tendermint/tm-db v0.6.7
 )
@@ -159,4 +158,4 @@ replace github.com/sagernet/wireguard-go => github.com/hiddify/wireguard-go v0.0
 
 replace github.com/bepass-org/warp-plus => github.com/hiddify/warp-plus v0.0.0-20240717223357-4f3122e0d11d
 
-replace github.com/hiddify/ray2sing => github.com/hiddify/ray2sing v0.0.0-20240928221833-190b549d5222
+replace github.com/hiddify/ray2sing => ./ray2sing //github.com/hiddify/ray2sing v0.0.0-20240928221833-190b549d5222
