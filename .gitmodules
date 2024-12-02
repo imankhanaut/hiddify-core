@@ -1,0 +1,3 @@
+[submodule "ray2sing"]
+	path = ray2sing
+	url = https://github.com/imankhanaut/ray2sing.git
